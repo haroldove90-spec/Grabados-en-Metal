@@ -1,0 +1,6 @@
+{
+  "name": "Grabados en Metal",
+  "description": "Sistema integral de gestión para taller de grabados en metal, manufactura de moldes CNC y producción de envases plásticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
